@@ -1,0 +1,4 @@
+D:\Programming\chsarp\DevLifeBot\bin\Debug\netcoreapp3.1\DevLifeBot.exe
+D:\Programming\chsarp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.csprojAssemblyReference.cache
+D:\Programming\chsarp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.AssemblyInfoInputs.cache
+D:\Programming\chsarp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.AssemblyInfo.cs
