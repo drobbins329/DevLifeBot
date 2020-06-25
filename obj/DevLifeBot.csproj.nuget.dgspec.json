@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj": {}
+    "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj": {
+    "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj",
+        "projectUniqueName": "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj",
         "projectName": "DevLifeBot",
-        "projectPath": "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj",
-        "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\chsarp\\DevLifeBot\\obj\\",
+        "projectPath": "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj",
+        "packagesPath": "C:\\Users\\danma\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\C_Sharp\\DevLifeBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -47,6 +46,30 @@
             "Discord.Net": {
               "target": "Package",
               "version": "[2.3.0-dev-20200618.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Yaml": {
+              "target": "Package",
+              "version": "[2.0.0-preview2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             }
           },
           "imports": [
@@ -64,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
