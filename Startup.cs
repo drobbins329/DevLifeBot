@@ -35,6 +35,12 @@ namespace DevLifeBot
             await _client.LoginAsync(TokenType.Bot, discordToken);     // Login to discord
             await _client.StartAsync();
 
+            CommandService commandService = new CommandService(new CommandServiceConfig { DefaultRunMode = RunMode.Async });
+            Handlers.CommandHandler commandHandler = new Handlers.CommandHandler(_client, commandService, '&');
+            commandHandler.AddModule<Modules.CommandModule>();
+            await commandHandler.InstallCommandsAsync();
+
+
             await Task.Delay(-1);
         }
     }
