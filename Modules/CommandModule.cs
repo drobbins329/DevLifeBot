@@ -11,7 +11,7 @@ namespace DevLifeBot.Modules
     {
         [Command("author")]
         [Summary("reply with command Author info")]
-        public async Task btsPicCommand()
+        public async Task authorCommand()
         {
             try
             {
