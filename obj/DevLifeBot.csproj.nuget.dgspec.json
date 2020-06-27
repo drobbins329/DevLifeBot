@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj": {}
+    "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj": {
+    "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj",
+        "projectUniqueName": "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj",
         "projectName": "DevLifeBot",
-        "projectPath": "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj",
-        "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\chsarp\\DevLifeBot\\obj\\",
+        "projectPath": "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj",
+        "packagesPath": "C:\\Users\\danma\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\C_Sharp\\DevLifeBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -88,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

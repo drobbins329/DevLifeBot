@@ -3,14 +3,6 @@ D:\Programming\chsarp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.csprojAssemb
 D:\Programming\chsarp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.AssemblyInfoInputs.cache
 D:\Programming\chsarp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.AssemblyInfo.cs
 D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\DevLifeBot.exe
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
-D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
 D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.csprojAssemblyReference.cache
 D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.AssemblyInfoInputs.cache
 D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.AssemblyInfo.cs
@@ -36,4 +28,12 @@ D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.dll
 D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.pdb
 D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.genruntimeconfig.cache
 D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\config.yml
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Programming\C_Sharp\DevLifeBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
 D:\Programming\C_Sharp\DevLifeBot\obj\Debug\netcoreapp3.1\DevLifeBot.csproj.CoreCompileInputs.cache
