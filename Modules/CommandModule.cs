@@ -12,7 +12,6 @@ namespace DevLifeBot.Modules
     {
         [Command("author")]
         [Summary("reply with command Author info")]
-        [RequireUserPermission(GuildPermission.BanMembers)]
         public async Task authorCommand()
         {
             try
