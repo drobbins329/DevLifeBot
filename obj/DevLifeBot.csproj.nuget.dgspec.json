@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj": {}
+    "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj": {
+    "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj",
+        "projectUniqueName": "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj",
         "projectName": "DevLifeBot",
-        "projectPath": "D:\\Programming\\C_Sharp\\DevLifeBot\\DevLifeBot.csproj",
-        "packagesPath": "C:\\Users\\danma\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C_Sharp\\DevLifeBot\\obj\\",
+        "projectPath": "D:\\Programming\\chsarp\\DevLifeBot\\DevLifeBot.csproj",
+        "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\chsarp\\DevLifeBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\danma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +28,9 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {},
+          "https://www.myget.org/F/websubdotnet/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -87,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,5 @@
-﻿using Discord.Commands;
+﻿using Discord;
+using Discord.Commands;
 using Discord.WebSocket;
 using System;
 using System.Collections.Generic;
@@ -11,7 +12,8 @@ namespace DevLifeBot.Modules
     {
         [Command("author")]
         [Summary("reply with command Author info")]
-        public async Task btsPicCommand()
+        [RequireUserPermission(GuildPermission.BanMembers)]
+        public async Task authorCommand()
         {
             try
             {

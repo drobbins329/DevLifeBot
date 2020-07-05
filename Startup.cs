@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using DevLifeBot.Handlers;
 using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
@@ -39,6 +40,9 @@ namespace DevLifeBot
             Handlers.CommandHandler commandHandler = new Handlers.CommandHandler(_client, commandService, '&');
             commandHandler.AddModule<Modules.CommandModule>();
             await commandHandler.InstallCommandsAsync();
+
+            ReactionAddedHandler reactionAddedHandler = new ReactionAddedHandler(_client);
+            await reactionAddedHandler.InstallReactionAddedHandlerAsync();
 
 
             await Task.Delay(-1);
